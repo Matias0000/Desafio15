@@ -1,0 +1,9 @@
+node_modules
+mongo
+routes
+middlewares
+productos.txt
+keys.js
+prueba.env
+.env
+config.js
